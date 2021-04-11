@@ -28,3 +28,11 @@
 **Teacher Assistant**: *Clara Piniella Martinez*
 
 - clara.piniella@thebridgeschool.es
+
+**Teacher Assistant**: *Mónica Villasuso López*
+
+*Tutorials*: 
+
+**Teacher Assistant**: *Borja Puig de la Bellacasa*
+
+*Tutorials*: 
