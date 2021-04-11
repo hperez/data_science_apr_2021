@@ -31,8 +31,12 @@
 
 **Teacher Assistant**: *Mónica Villasuso López*
 
+- monica.villasuso@thebridgeschool.es
+
 *Tutorials*: 
 
 **Teacher Assistant**: *Borja Puig de la Bellacasa*
+
+- borja@thebridgeschool.es
 
 *Tutorials*: 

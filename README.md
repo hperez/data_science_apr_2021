@@ -36,18 +36,18 @@ content
 
 - gabriel@thebridgeschool.es
 
-*Tutorials*: https://calendly.com/gabrielvazqueztb
-
 **Teacher Assistant**: *Clara Piniella Martinez*
 
 - clara.piniella@thebridgeschool.es
 
-*Tutorials*: https://calendly.com/clapiniella
-
 **Teacher Assistant**: *Mónica Villasuso López*
+
+- monica.villasuso@thebridgeschool.es
 
 *Tutorials*: 
 
 **Teacher Assistant**: *Borja Puig de la Bellacasa*
+
+- borja@thebridgeschool.es
 
 *Tutorials*: 
