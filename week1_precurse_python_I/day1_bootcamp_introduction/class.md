@@ -21,13 +21,18 @@
 
 ---------
 
+
 **Lead Instructor**: *Gabriel Vázquez Torres*
 
 - gabriel@thebridgeschool.es
 
+*Tutorials*: https://calendly.com/gabrielvazqueztb
+
 **Teacher Assistant**: *Clara Piniella Martinez*
 
 - clara.piniella@thebridgeschool.es
+
+*Tutorials*: https://calendly.com/clapiniella
 
 **Teacher Assistant**: *Mónica Villasuso López*
 
@@ -39,4 +44,4 @@
 
 - borja@thebridgeschool.es
 
-*Tutorials*: 
+*Tutorials*: https://calendly.com/borja_data_science/15min
