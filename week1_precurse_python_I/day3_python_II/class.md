@@ -5,7 +5,7 @@
 **Work-in:**
 
 1. Python Presentation
-2. Python I
+2. Python II
 
 ---------
 
@@ -22,7 +22,6 @@
 *Use Google everytime you need. Google must be your shadow.*
 
 ---------
-
 
 **Lead Instructor**: *Gabriel Vázquez Torres*
 
