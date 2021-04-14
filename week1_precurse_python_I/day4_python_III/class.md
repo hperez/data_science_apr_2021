@@ -4,7 +4,7 @@
 
 **Work-in:**
 
-1. Python II
+1. Python III
 
 ---------
 
@@ -21,6 +21,7 @@
 *Use Google everytime you need. Google must be your shadow.*
 
 ---------
+
 
 **Lead Instructor**: *Gabriel Vázquez Torres*
 
