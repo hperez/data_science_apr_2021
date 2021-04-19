@@ -48,7 +48,7 @@ content
 
 - monica.villasuso@thebridgeschool.es
 
-*Tutorials*: 
+*Tutorials*: https://calendly.com/monica-villasuso
 
 **Teacher Assistant**: *Borja Puig de la Bellacasa*
 
