@@ -20,4 +20,4 @@ Una vez las tengas todas añade la siguiente funcionalidad a cada una de las fun
 
 -------------------------------------------------
 
-Al finalizar, subir a Github y enviar el enlace de vuestro repositorio de GitHub a cada uno de los profesores. Los correos de cada uno de los profesores está en el README.md y en cada archivo 'class.md'.
+Al finalizar, subir a Github y enviar el enlace de vuestro repositorio de GitHub a cada uno de los profesores. Los correos de cada uno de los profesores está en el README.md y en cada archivo 'class.md'. Además, subir a classroom.
