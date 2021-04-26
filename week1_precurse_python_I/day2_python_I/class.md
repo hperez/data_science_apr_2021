@@ -46,4 +46,4 @@
 
 - borja@thebridgeschool.es
 
-*Tutorials*: https://calendly.com/borja_data_science/15min
+*Tutorials*: https://calendly.com/borpuig/15min
