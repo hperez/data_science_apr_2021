@@ -1,17 +1,16 @@
-# Bootcamp - Data Science - April 2021 - The Bridge
+## **Class Guide**
 
-----------
+---------
 
-### **Foldername**: data_science_apr_2021
+**Work-in:**
 
-***Repository link:*** https://github.com/Gabvaztor/data_science_apr_2021
+1. Python IX - functional programming
 
-*To git clone by https:*
+---------
 
-"git clone https://github.com/Gabvaztor/data_science_apr_2021.git"
+**Work-out:**
 
-- https://developers.google.com/machine-learning/glossary
-
+2. Python exercises
 
 ---------
 
