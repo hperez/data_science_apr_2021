@@ -4,7 +4,7 @@
 
 **Work-in:**
 
-1. Sink the float
+1. json / Sink the float
 2. Probability
 3. Montyhall_problem
 4. Kahoot
