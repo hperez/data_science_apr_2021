@@ -6,7 +6,9 @@
 
 1. Python *args, **kwargs` & global_local
 2. Delivery
-3. 
+3. Pip Paths
+4. Matrix numpy
+5. Pandas read csv
 
 *Data Science Industry Salary & Roles*:
 
@@ -16,7 +18,7 @@
 
 **Work-out:**
 
-2. Mandatory readings:
+6. Mandatory readings:
 
 - https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch03.html
 
@@ -27,8 +29,8 @@
 
   **Link**: https://learning.oreilly.com/library/view/hands-on-exploratory-data/9781789537253/0957090f-fa4d-4145-95dd-6d3782e5c04d.xhtml 
 
-3. numpy/
-4. pandas/
+7. numpy/
+8. pandas/
 
 ---------
 
