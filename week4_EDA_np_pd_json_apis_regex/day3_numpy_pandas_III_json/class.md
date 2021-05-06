@@ -5,7 +5,7 @@
 **Work-in:**
 
 1. python paths
-2. python paths .ipynb
+2. json advanced
 
 ---------
 
