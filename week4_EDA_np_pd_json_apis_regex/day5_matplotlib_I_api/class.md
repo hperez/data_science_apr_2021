@@ -38,8 +38,14 @@
 
 *Tutorials*: https://calendly.com/clapiniella
 
-**Teacher Assistant**: *Diomedes Barbero Martinez*
+**Teacher Assistant**: *Mónica Villasuso López*
 
-- diomedes@thebridgeschool.es
+- monica.villasuso@thebridgeschool.es
 
-*Tutorials*: https://calendly.com/diomedes
+*Tutorials*: https://calendly.com/monica-villasuso
+
+**Teacher Assistant**: *Borja Puig de la Bellacasa*
+
+- borja@thebridgeschool.es
+
+*Tutorials*: https://calendly.com/borpuig/15min
