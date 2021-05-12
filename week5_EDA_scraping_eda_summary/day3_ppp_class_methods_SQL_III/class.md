@@ -4,14 +4,15 @@
 
 **Work-in:**
 
-1. Exercises
-2. SQL I
+1. Private, Protected & Public
+2. Class Methods, Class Properties
+3. SQL III
 
 ---------
 
 **Work-out:**
 
-3. Exercises
+4. Exercises
 
 *NOTE: Under the cells in pandas exercises, there is the solution. Remember that if you run the cells you will lose the solution. For that, try to create new cells to check your solution.*
 
