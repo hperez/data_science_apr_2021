@@ -8,8 +8,6 @@ app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.secret_key = 'hellohello'
 
-
-
 options = {"Genre_list":["hola", "adios"],
 "Platform_list":[1,2,3,4,5,6],
 "Publisher_list":['Clara', 'Borja', 'Gabriel']}
