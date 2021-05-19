@@ -4,6 +4,7 @@ import os
 import json
 
 UPLOAD_FOLDER = os.sep + "static" + os.sep
+
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 app.secret_key = 'hellohello'
@@ -37,4 +38,4 @@ if __name__ == '__main__':
     # si 0.0.0.0 no funciona externamente desde la IP privada de tu PC
     # es que tu ordenador o del dispositivo desde el que se accede 
     # tiene bloqueada la conexión (antivirus / firewall)
-    app.run(host='0.0.0.0',port=os.getenv("PORT", 1991), debug=True)
+    app.run(host='0.0.0.0',port=6060, debug=True)
