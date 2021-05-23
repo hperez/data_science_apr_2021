@@ -4,16 +4,17 @@
 
 **Work-in:**
 
-1. MySQL driver for Python
+1. MySQL driver for Python (pymysql)
 2. Debugging
 3. Management Gannt & Engineering UML
-4. Tableau
+4. Maps
+5. Dash
 
 ---------
 
 **Work-out:**
 
-5. Individual Project
+6. Individual Project
 
 *NOTE: Under the cells in pandas exercises, there is the solution. Remember that if you run the cells you will lose the solution. For that, try to create new cells to check your solution.*
 
