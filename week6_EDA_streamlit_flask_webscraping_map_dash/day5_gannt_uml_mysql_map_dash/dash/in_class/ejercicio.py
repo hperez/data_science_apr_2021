@@ -85,7 +85,7 @@ def update_graphs_selector(selected_type, reviews):
     print("reviews:", reviews)
     
     fig1 = px.scatter(filtered_df, x="Reviews", y="Rating", color='Category', hover_data=['App'])
-
+    
     if selected_type:
         df_bars = filtered_df.groupby(['Category', 'Installs'])['App'].count().reset_index().sort_values('App', ascending=False)
         fig2 = px.bar(df_bars, x="Category", y="App", color="Installs")

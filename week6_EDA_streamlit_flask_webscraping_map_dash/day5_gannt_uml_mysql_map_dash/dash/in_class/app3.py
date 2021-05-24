@@ -50,6 +50,7 @@ from dash.dependencies import Input, Output
     Output('example-graph', 'figure'),
     Output('example-graph-box', 'figure'),
     [Input('id_free_paid', 'value')])
+
 def update_graphs_selector(selected_type):
     filtered_df = df[df["Type"].isin(selected_type)]
 
